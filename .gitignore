@@ -17,6 +17,17 @@ obj/
 .DS_Store
 Thumbs.db
 
-# Documentation files (User requested exclusion)
+# Documentation, Reports, and Media (Excluded from GitHub)
 *.md
+!README.md
+*.pdf
+*.txt
+*.doc
+*.docx
+*.jpeg
+*.jpg
+*.png
 docs/
+reports/
+*rapor*
+*report*
