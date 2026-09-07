@@ -1,0 +1,22 @@
+# Build / Compiler outputs
+bin/
+obj/
+*.exe
+*.o
+*.obj
+*.dll
+*.pdb
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+*.user
+*.suo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Documentation files (User requested exclusion)
+*.md
+docs/
